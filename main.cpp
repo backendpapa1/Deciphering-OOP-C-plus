@@ -1,6 +1,11 @@
 #include <iostream>
 
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    double x = 9.87;
+
+    cout << x << endl;
+
+
     return 0;
 }
