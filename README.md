@@ -66,3 +66,21 @@ Datatypes include:
     bool e = test;
     bool f = !test;
 ```
+
+
+### Variables and array basics
+
+- Arrays can be declared of any datatype
+- Arrays are zero(0) based index
+- Range checking is not performed in C++
+
+```c++
+    char name[10] = "Dorothy"; // content here is 7 + invicible null space making 8
+    float grades[20];
+    grades[0] = 4.0;
+    float scores[] = {3.3,4.3,4.0,3.7};
+```
+
+
+## Recapping Basic I/O
+
